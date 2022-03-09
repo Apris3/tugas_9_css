@@ -1,0 +1,25 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  position: relative;
+}
+img {
+z-index: 1;
+}
+div {
+  width: 50%;
+  height: 90%;
+  background-color: white;
+  z-index: 2;
+  position: absolute;
+  text-align: right;
+  top: 10px;
+  padding-right: 10px;
+  margin-left: 660px;
+}
+div {
+  float: right;
+}
